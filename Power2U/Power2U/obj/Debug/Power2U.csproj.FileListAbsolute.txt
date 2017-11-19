@@ -1,0 +1,15 @@
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Power2U.pdb
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Cassandra.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\LZ4.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Cassandra.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\obj\Debug\Power2U.pdb
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\obj\Debug\Power2U.csprojResolveAssemblyReference.cache
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Power2U.exe.config
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\bin\Debug\Power2U.exe
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\Power2U\Power2U\obj\Debug\Power2U.exe

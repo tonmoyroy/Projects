@@ -1,0 +1,15 @@
+c:\users\tonmoy\documents\visual studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\CassandraDriver.exe.config
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\CassandraDriver.exe
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\CassandraDriver.pdb
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Cassandra.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\LZ4.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Cassandra.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\obj\Debug\CassandraDriver.csprojResolveAssemblyReference.cache
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\obj\Debug\CassandraDriver.exe
+C:\Users\Tonmoy\Documents\Visual Studio 2015\Projects\CassandraDriver\CassandraDriver\obj\Debug\CassandraDriver.pdb
